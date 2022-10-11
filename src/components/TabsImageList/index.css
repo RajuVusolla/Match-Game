@@ -1,0 +1,12 @@
+.thumbnail {
+  width: 70px;
+}
+li {
+  margin-right: 0px;
+  margin-bottom: 8px;
+}
+.images {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}

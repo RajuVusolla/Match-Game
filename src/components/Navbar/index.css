@@ -1,0 +1,28 @@
+.navContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  background-color: #2c0e3a;
+  padding: 0px 40px;
+  width: 100vw;
+}
+
+.websiteLogo {
+  width: 150px;
+}
+.timer {
+  width: 20px;
+  margin-left: 20px;
+}
+.timerContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.score {
+  color: white;
+}
+.time {
+  color: white;
+}
